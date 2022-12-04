@@ -1,1 +1,0 @@
-After open folder of the file, run `python3 app.py` in console.
