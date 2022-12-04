@@ -1,0 +1,11 @@
+Before run the web.py, change the Python Environtment with these syntax in console:
+> py -3 -m venv .venv 
+> .venv\scripts\activate
+
+Install some packages:
+> python.exe -m pip install --upgrade pip
+> python -m pip install flask
+> python -m pip install flask_sqlalchemy
+
+After open the folder, run `python3 web.py` to go.
+
